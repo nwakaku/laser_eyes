@@ -272,6 +272,8 @@ This guide is designed to help you get started with Laser Eyes quickly while als
 
 [Medium Article](https://medium.com/@nwakakucc/laser-eyes-integration-guide-1665a382cf29)
 
+[InfoGraphy Doc](https://docs.google.com/presentation/d/1ytcVeMXoXW_f-Uv0aw15423hSKeB9e3EfG722o0yOXU/edit?usp=sharing)
+
 ## Learn About PSBT
 
 If you'd like to understand Partially Signed Bitcoin Transactions (PSBT) in more detail, check out this video by Me. This video is part of the submission to the "PSBT Educational Content Challenge" and offers a comprehensive explanation of PSBTs and their usage in Bitcoin development.
