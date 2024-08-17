@@ -270,6 +270,8 @@ const config = createConfig({
 
 This guide is designed to help you get started with Laser Eyes quickly while also covering more advanced use cases and best practices to ensure a smooth integration. By leveraging the powerful features of Laser Eyes, you can build robust Bitcoin applications that provide seamless wallet interactions for users.
 
+[Medium Article:](https://medium.com/@nwakakucc/laser-eyes-integration-guide-1665a382cf29)
+
 ## Learn About PSBT
 
 If you'd like to understand Partially Signed Bitcoin Transactions (PSBT) in more detail, check out this video by Me. This video is part of the submission to the "PSBT Educational Content Challenge" and offers a comprehensive explanation of PSBTs and their usage in Bitcoin development.
