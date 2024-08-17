@@ -274,6 +274,6 @@ This guide is designed to help you get started with Laser Eyes quickly while als
 
 If you'd like to understand Partially Signed Bitcoin Transactions (PSBT) in more detail, check out this video by Me. This video is part of the submission to the "PSBT Educational Content Challenge" and offers a comprehensive explanation of PSBTs and their usage in Bitcoin development.
 
-[Watch the video here](#https://youtu.be/v3oxyi-dGR0)
+[Watch the video here](https://youtu.be/v3oxyi-dGR0)
 
 This educational content will help you gain a deeper understanding of how PSBTs work, and how you can leverage them in your Bitcoin applications.
